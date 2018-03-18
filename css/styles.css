@@ -59,6 +59,12 @@ body {
 	min-height: 300px;
 }
 
+#carouselButtons {
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
+}
+
 /*dt::after {
   content: ": ";
 }*/
